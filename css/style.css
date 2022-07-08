@@ -409,6 +409,7 @@ footer p {
     }
     .wrapper {
         width: 90vw;
+        margin: 0 auto;
     }
 }
 
@@ -438,6 +439,7 @@ footer p {
     }
     .wrapper {
         width: 100vw;
+        margin: 0 auto;
     }
 }
 
