@@ -139,19 +139,20 @@ header .line {
 
 #container {
     display: inline-block;
-    border-radius: 500px;
-    margin-right: 25px;
-    margin-top: 3px;
     position: relative;
     cursor: pointer;
-    float: right;
     display: none;
+    display: flex;
+    justify-content: end;
 }
 
 .circle {
     position: relative;
     width: 30px;
     height: 30px;
+    border-radius: 500px;
+    margin-right: 25px;
+    margin-top: 3px;
 }
 
 .bar {
